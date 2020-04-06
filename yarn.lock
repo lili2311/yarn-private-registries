@@ -7,7 +7,7 @@
   resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/@snyk/gemfile/-/@snyk/gemfile-1.2.0.tgz#18b2bed36a4880b2dc07d7315c8db6d86e8de0d4"
   integrity sha1-GLK+02pIgLLcB9cxXI222G6N4NQ=
 
-ms@1.0.0:
-  version "1.0.0"
-  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/ms/-/ms-1.0.0.tgz#815077218b8d71a6b180ecb49594e56541c584d4"
-  integrity sha1-gVB3IYuNcaaxgOy0lZTlZUHFhNQ=
+ms@2.0.0:
+  version "2.0.0"
+  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/ms/-/ms-2.0.0.tgz#c50a51e1a1308ab14fe02a775c41d38079d14084"
+  integrity sha1-xQpR4aEwirFP4Cp3XEHTgHnRQIQ=
