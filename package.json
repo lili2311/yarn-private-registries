@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "@snyk/gemfile": "^1.2.0",
-    "ms": "1.0.0"
+    "ms": "2.0.0"
   }
 }
